@@ -9,4 +9,4 @@ The goal for our project is to utilize analysis to help people who are either in
 
 Below are our project flowchart and description.
 
-![](image/Flowchart.png)
+![](<img style="float: left;" src="https://i.loli.net/2020/05/01/M9n2g1VvjBmhY6p.png" width=450 height=200>)
