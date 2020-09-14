@@ -1,4 +1,4 @@
-# Gross_PredictiveAnalysis_IMDB_Python
+# PredictiveAnalysis_NLPAnalysis_IMDB_Python
 This is a course project for Data Analytics with Python using Machine Learning algorithms for prediction purpose.
 
 With the rapid development of technology and big data, entertainment is quite a big part of people's daily life. Thus, more and more people and investors focus on movie industry in the context of promoting the development of movie industry. Exploring the influence factors of box office and trying to predict box office level could make a difference when it comes to promoting the development of movie industry and helping investors to make better decisions to gain high revenues.
