@@ -13,7 +13,7 @@ Below are our project flowchart and description.
 <img style="float: left;" src="https://i.loli.net/2020/05/01/M9n2g1VvjBmhY6p.png">
 
 ### Data Source
-The IMDB dataset link: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+The IMDB dataset link: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset  
 The TMDB dataset link: https://www.kaggle.com/tmdb/tmdb-movie-metadata#tmdb_5000_movies.csv
 
 ### Tools
